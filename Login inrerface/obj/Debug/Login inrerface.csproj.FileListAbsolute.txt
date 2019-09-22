@@ -1,0 +1,10 @@
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\bin\Debug\Login inrerface.exe.config
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\bin\Debug\Login inrerface.exe
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\bin\Debug\Login inrerface.pdb
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\obj\Debug\Login inrerface.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\obj\Debug\Login_inrerface.Form1.resources
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\obj\Debug\Login_inrerface.Properties.Resources.resources
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\obj\Debug\Login inrerface.csproj.GenerateResource.cache
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\obj\Debug\Login inrerface.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\obj\Debug\Login inrerface.exe
+C:\Users\Gulam\source\repos\Login inrerface\Login inrerface\obj\Debug\Login inrerface.pdb
